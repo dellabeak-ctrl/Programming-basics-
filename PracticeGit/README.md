@@ -3,15 +3,6 @@
 ## Overview
 This folder is a practice repository designed to help learners understand and master the fundamentals of Git version control. It serves as a sandbox environment where you can safely experiment with various Git commands and workflows without affecting a production codebase.
 
-## Contents
-This repository contains resources and exercises related to Git basics, including:
-- Practice scenarios for common Git operations
-- Example workflows and branching strategies
-- Documentation and guides for Git commands
-
-## Purpose
-This is a **practice folder** intended for educational purposes. Use it to learn Git concepts hands-on by executing real commands and observing their outcomes.
-
 ## Common Git Commands to Practice
 - `git init` - Initialize a new repository
 - `git add <file>` - Stage changes for commit
@@ -24,6 +15,7 @@ This is a **practice folder** intended for educational purposes. Use it to learn
 - `git push` - Push commits to remote repository
 - `git pull` - Pull updates from remote repository
 
+# Set Up 
 ## Virtual Environment Setup
 
 1. Create the environment: `python -m venv env`
